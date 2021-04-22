@@ -25,6 +25,7 @@ double arrondi(double x, int n); //Fonction pour arrondir un réel x à n chiffr
 
 int main() //On affiche le menu
 {
+    system("chcp 1252");
     cout << "\t\t########## TRACEUR DE FONCTIONS ##########" << endl << endl;
     cout << "/!\\ Mettre la console en plein écran pour profiter au maximum de l'expérience /!\\" << endl << endl;
     afficherMenu();
