@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1619103922 source:c:\users\charon\desktop\c++\main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+	<iomanip>
+	<cmath>
+	"PolynomeHybride.h"
+	"PolynomeBuilder.h"
+	<regex>
+
+1619103526 c:\users\charon\desktop\c++\include\polynomehybride.h
+	<vector>
+	"MonomeHybride.h"
+
+1619103526 c:\users\charon\desktop\c++\include\monomehybride.h
+	"MonomeSimple.h"
+	"MonomeTrigo.h"
+
+1619103526 c:\users\charon\desktop\c++\include\monomesimple.h
+	"math.h"
+	<iostream>
+	<string>
+	<regex>
+
+1619103526 c:\users\charon\desktop\c++\include\monometrigo.h
+	"MonomeSimple.h"
+	"PolynomeSimple.h"
+	"math.h"
+
+1619103526 c:\users\charon\desktop\c++\include\polynomesimple.h
+	<vector>
+	"MonomeSimple.h"
+
+1619103526 c:\users\charon\desktop\c++\include\polynomebuilder.h
+	<iostream>
+	<iomanip>
+	"PolynomeHybride.h"
+
+1619103526 source:c:\users\charon\desktop\c++\src\monomehybride.cpp
+	"MonomeHybride.h"
+
+1619103526 source:c:\users\charon\desktop\c++\src\monomesimple.cpp
+	"MonomeSimple.h"
+	<regex>
+
+1619103526 source:c:\users\charon\desktop\c++\src\monometrigo.cpp
+	"MonomeTrigo.h"
+
+1619103526 source:c:\users\charon\desktop\c++\src\polynomebuilder.cpp
+	"PolynomeBuilder.h"
+
+1619103526 source:c:\users\charon\desktop\c++\src\polynomehybride.cpp
+	"PolynomeHybride.h"
+
+1619103526 source:c:\users\charon\desktop\c++\src\polynomesimple.cpp
+	"PolynomeSimple.h"
+
